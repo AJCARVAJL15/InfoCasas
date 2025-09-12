@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "title": "Apartamento en Chapinero",
+    "price": 165000000,
+    "rooms": 4,
+    "bathrooms": 3,
+    "area_m2": 1890,
+    "location": "Chapinero, Bogotá",
+    "short_description": "Apartamento de lujo en zona tranquila y segura.",
+    "description": "Es una casa de lujo ubicada en una zona tranquila y segura, ideal para familias. Cuenta con amplios espacios, cocina moderna y un hermoso jardín."
+  },
+  {
+    "id": "2",
+    "title": "Casa en Suba",
+    "price": 380000000,
+    "rooms": 3,
+    "bathrooms": 2,
+    "area_m2": 220,
+    "location": "Suba, Bogotá",
+    "short_description": "Casa amplia con jardín privado.",
+    "description": "Casa de tres habitaciones con dos baños, amplia sala y comedor, cocina integral, garaje para dos carros y jardín trasero ideal para mascotas."
+  },
+  {
+    "id": "3",
+    "title": "Estudio en Cedritos",
+    "price": 210000000,
+    "rooms": 1,
+    "bathrooms": 1,
+    "area_m2": 55,
+    "location": "Cedritos, Bogotá",
+    "short_description": "Estudio moderno ideal para profesionales.",
+    "description": "Apartamento tipo estudio con cocina abierta, balcón con vista a la ciudad y parqueadero cubierto."
+  },
+  {
+    "id": "4",
+    "title": "Apartamento en El Poblado",
+    "price": 650000000,
+    "rooms": 3,
+    "bathrooms": 3,
+    "area_m2": 160,
+    "location": "El Poblado, Medellín",
+    "short_description": "Apartamento con vista panorámica.",
+    "description": "Apartamento moderno con acabados de lujo, balcón amplio con vista a la ciudad y acceso a zonas sociales."
+  },
+  {
+    "id": "5",
+    "title": "Finca en La Calera",
+    "price": 1250000000,
+    "rooms": 5,
+    "bathrooms": 4,
+    "area_m2": 450,
+    "location": "La Calera, Cundinamarca",
+    "short_description": "Finca campestre rodeada de naturaleza.",
+    "description": "Hermosa finca con amplias zonas verdes, cocina rústica, chimenea y espacio para caballerizas."
+  },
+  {
+    "id": "6",
+    "title": "Apartamento en Cali",
+    "price": 320000000,
+    "rooms": 2,
+    "bathrooms": 2,
+    "area_m2": 95,
+    "location": "Ciudad Jardín, Cali",
+    "short_description": "Apartamento con piscina en conjunto cerrado.",
+    "description": "Apartamento iluminado, con dos habitaciones, piscina en la unidad y parqueadero cubierto."
+  },
+  {
+    "id": "7",
+    "title": "Casa en Cartagena",
+    "price": 980000000,
+    "rooms": 4,
+    "bathrooms": 4,
+    "area_m2": 300,
+    "location": "Cartagena, Bolívar",
+    "short_description": "Casa colonial cerca al centro histórico.",
+    "description": "Casa restaurada con arquitectura colonial, patio interno, piscina pequeña y acabados modernos."
+  },
+  {
+    "id": "8",
+    "title": "Apartamento en Bucaramanga",
+    "price": 290000000,
+    "rooms": 3,
+    "bathrooms": 2,
+    "area_m2": 110,
+    "location": "Cabecera, Bucaramanga",
+    "short_description": "Apartamento familiar cerca de colegios.",
+    "description": "Apartamento con tres habitaciones, cocina integral, zona de ropas y acceso a gimnasio en el edificio."
+  },
+  {
+    "id": "9",
+    "title": "Casa en Villavicencio",
+    "price": 420000000,
+    "rooms": 3,
+    "bathrooms": 3,
+    "area_m2": 180,
+    "location": "Villavicencio, Meta",
+    "short_description": "Casa con piscina privada.",
+    "description": "Casa de dos plantas, piscina privada, amplias zonas verdes y espacio para reuniones familiares."
+  },
+  {
+    "id": "10",
+    "title": "Penthouse en Bogotá",
+    "price": 1500000000,
+    "rooms": 4,
+    "bathrooms": 5,
+    "area_m2": 350,
+    "location": "Usaquén, Bogotá",
+    "short_description": "Penthouse con terraza panorámica.",
+    "description": "Exclusivo penthouse con acabados premium, terraza con jacuzzi, estudio privado y seguridad 24/7."
+  }
+]
