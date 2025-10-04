@@ -8,7 +8,8 @@
     "area_m2": 1890,
     "location": "Chapinero, Bogotá",
     "short_description": "Apartamento de lujo en zona tranquila y segura.",
-    "description": "Es una casa de lujo ubicada en una zona tranquila y segura, ideal para familias. Cuenta con amplios espacios, cocina moderna y un hermoso jardín."
+    "description": "Es una casa de lujo ubicada en una zona tranquila y segura, ideal para familias. Cuenta con amplios espacios, cocina moderna y un hermoso jardín.",
+    "tipo": "venta"
   },
   {
     "id": "2",
@@ -19,7 +20,8 @@
     "area_m2": 220,
     "location": "Suba, Bogotá",
     "short_description": "Casa amplia con jardín privado.",
-    "description": "Casa de tres habitaciones con dos baños, amplia sala y comedor, cocina integral, garaje para dos carros y jardín trasero ideal para mascotas."
+    "description": "Casa de tres habitaciones con dos baños, amplia sala y comedor, cocina integral, garaje para dos carros y jardín trasero ideal para mascotas.",
+    "tipo": "venta"
   },
   {
     "id": "3",
@@ -30,7 +32,8 @@
     "area_m2": 55,
     "location": "Cedritos, Bogotá",
     "short_description": "Estudio moderno ideal para profesionales.",
-    "description": "Apartamento tipo estudio con cocina abierta, balcón con vista a la ciudad y parqueadero cubierto."
+    "description": "Apartamento tipo estudio con cocina abierta, balcón con vista a la ciudad y parqueadero cubierto.",
+    "tipo": "venta"
   },
   {
     "id": "4",
@@ -41,7 +44,8 @@
     "area_m2": 160,
     "location": "El Poblado, Medellín",
     "short_description": "Apartamento con vista panorámica.",
-    "description": "Apartamento moderno con acabados de lujo, balcón amplio con vista a la ciudad y acceso a zonas sociales."
+    "description": "Apartamento moderno con acabados de lujo, balcón amplio con vista a la ciudad y acceso a zonas sociales.",
+    "tipo": "venta"
   },
   {
     "id": "5",
@@ -52,7 +56,8 @@
     "area_m2": 450,
     "location": "La Calera, Cundinamarca",
     "short_description": "Finca campestre rodeada de naturaleza.",
-    "description": "Hermosa finca con amplias zonas verdes, cocina rústica, chimenea y espacio para caballerizas."
+    "description": "Hermosa finca con amplias zonas verdes, cocina rústica, chimenea y espacio para caballerizas.",
+    "tipo": "venta"
   },
   {
     "id": "6",
@@ -63,7 +68,8 @@
     "area_m2": 95,
     "location": "Ciudad Jardín, Cali",
     "short_description": "Apartamento con piscina en conjunto cerrado.",
-    "description": "Apartamento iluminado, con dos habitaciones, piscina en la unidad y parqueadero cubierto."
+    "description": "Apartamento iluminado, con dos habitaciones, piscina en la unidad y parqueadero cubierto.",
+    "tipo": "venta"
   },
   {
     "id": "7",
@@ -74,7 +80,8 @@
     "area_m2": 300,
     "location": "Cartagena, Bolívar",
     "short_description": "Casa colonial cerca al centro histórico.",
-    "description": "Casa restaurada con arquitectura colonial, patio interno, piscina pequeña y acabados modernos."
+    "description": "Casa restaurada con arquitectura colonial, patio interno, piscina pequeña y acabados modernos.",
+    "tipo": "venta"
   },
   {
     "id": "8",
@@ -85,7 +92,8 @@
     "area_m2": 110,
     "location": "Cabecera, Bucaramanga",
     "short_description": "Apartamento familiar cerca de colegios.",
-    "description": "Apartamento con tres habitaciones, cocina integral, zona de ropas y acceso a gimnasio en el edificio."
+    "description": "Apartamento con tres habitaciones, cocina integral, zona de ropas y acceso a gimnasio en el edificio.",
+    "tipo": "venta"
   },
   {
     "id": "9",
@@ -96,7 +104,8 @@
     "area_m2": 180,
     "location": "Villavicencio, Meta",
     "short_description": "Casa con piscina privada.",
-    "description": "Casa de dos plantas, piscina privada, amplias zonas verdes y espacio para reuniones familiares."
+    "description": "Casa de dos plantas, piscina privada, amplias zonas verdes y espacio para reuniones familiares.",
+    "tipo": "venta"
   },
   {
     "id": "10",
@@ -107,6 +116,67 @@
     "area_m2": 350,
     "location": "Usaquén, Bogotá",
     "short_description": "Penthouse con terraza panorámica.",
-    "description": "Exclusivo penthouse con acabados premium, terraza con jacuzzi, estudio privado y seguridad 24/7."
+    "description": "Exclusivo penthouse con acabados premium, terraza con jacuzzi, estudio privado y seguridad 24/7.",
+    "tipo": "venta"
+  },
+  {
+    "id": "11",
+    "title": "Casa campestre en Sopó",
+    "price": 780000000,
+    "rooms": 4,
+    "bathrooms": 3,
+    "area_m2": 320,
+    "location": "Sopó, Cundinamarca",
+    "short_description": "Casa rodeada de naturaleza.",
+    "description": "Espaciosa casa con jardín, terraza, cocina abierta y una espectacular vista a las montañas.",
+    "tipo": "venta"
+  },
+  {
+    "id": "12",
+    "title": "Casa en arriendo en Envigado",
+    "price": 3500000,
+    "rooms": 3,
+    "bathrooms": 2,
+    "area_m2": 180,
+    "location": "Envigado, Antioquia",
+    "short_description": "Casa familiar con excelente ubicación.",
+    "description": "Casa en conjunto cerrado con vigilancia, cerca de colegios y centros comerciales, ideal para familias.",
+    "tipo": "arriendo"
+  },
+  {
+    "id": "13",
+    "title": "Casa en arriendo en Chía",
+    "price": 4200000,
+    "rooms": 4,
+    "bathrooms": 3,
+    "area_m2": 250,
+    "location": "Chía, Cundinamarca",
+    "short_description": "Casa moderna con jardín privado.",
+    "description": "Casa con diseño contemporáneo, amplios ventanales, jardín y zona BBQ. Ubicada en zona residencial tranquila.",
+    "tipo": "arriendo"
+  },
+  {
+    "id": "14",
+    "title": "Casa en venta en Santa Marta",
+    "price": 890000000,
+    "rooms": 5,
+    "bathrooms": 4,
+    "area_m2": 360,
+    "location": "Santa Marta, Magdalena",
+    "short_description": "Casa cerca al mar con piscina.",
+    "description": "Amplia casa de dos pisos, piscina privada, terraza, y a solo cinco minutos de la playa.",
+    "tipo": "venta"
+  },
+  {
+    "id": "15",
+    "title": "Casa en arriendo en Pereira",
+    "price": 2800000,
+    "rooms": 3,
+    "bathrooms": 3,
+    "area_m2": 190,
+    "location": "Pereira, Risaralda",
+    "short_description": "Casa en conjunto cerrado con zonas verdes.",
+    "description": "Moderna casa con cocina abierta, jardín trasero y acceso a zonas comunes como piscina y cancha múltiple.",
+    "tipo": "arriendo"
   }
 ]
